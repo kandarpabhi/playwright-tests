@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Abhishek Kandarp",
+      "email": "abhishekkandarp084@xor.com",
+      "firstName": "Abhishek",
+      "lastName": "Kandarp",
+      "company": "Xoriant",
+      "address1": "1/B/8, GiriVihar",
+      "address2": "Ghatkopar, Mumbai-86",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "zipcode": "400086",
+      "mobileNumber": "9988774455"
+    },
+    
+    {
+      "name": "Mira Battra",
+      "email": "meeraa56@xor.com",
+      "firstName": "mira",
+      "lastName": "batra",
+      "company": "nokia",
+      "address1": "pranjee city",
+      "address2": "Badlapur, Thane",
+      "state": "Maharashtra",
+      "city": "Thane",
+      "zipcode": "421503",
+      "mobileNumber": "9554684888"
+    }
+]

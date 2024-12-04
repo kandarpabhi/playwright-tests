@@ -1,0 +1,15 @@
+[
+
+    {
+      "name": "Abhishek",
+      "email": "abhishek@yy.com",
+      "subject": "Inquiry",
+      "message": "I need help with the product."
+    },
+    {
+      "name": "Mohan",
+      "email": "mohan776@yy.com",
+      "subject": "Product Inquiry",
+      "message": "I need help with the product."
+    }
+  ]

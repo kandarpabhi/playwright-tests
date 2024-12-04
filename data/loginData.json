@@ -1,0 +1,13 @@
+[
+    {
+        "email":"abhishek9867@yopmail.com",
+        "password": "Hello123#",
+        "isValid": true
+    },
+    {
+        "email": "invalidmail@yopmail.com",
+        "password": "Welcome123#",
+        "isValid": false
+
+    }
+]
